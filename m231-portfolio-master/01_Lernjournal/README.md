@@ -10,26 +10,15 @@
 - [5. 25.10.2021](#5-25102021)
 - [6. Quellen](#6-quellen)
 
-# 1. Bis 19.09.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+# 1. 16.11.2021
+Heute habe ich mich mit Verschlüsselungen ausgesetzt. Wir haben im Unterricht die Cesar Methode angeschaut. Wir haben mit dieser Methode Nachrichten Verschlüsselt und entschlüsselt. Ich habe auch noch mein Repo erstellt. 
 
-
-# 2. 20.09.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
-
-
-## 2.2. Auswertung
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+# 2. 23.11.2021
+Wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned,
+Ich weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
 
 # 3. 27.09.2021
-| Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
-
+Heute haben wir Passwörter thematisiert. Ich kenne mich schon ein bisschen mit Prasswort Manager aus. Ich benutze Keepass schon seit etwa einem Monat. Es gefällt mir sehr, da ich nicht mehr überall das gleiche Passwort brauchen mus, um mein Passwort nicht zu vergessen. Keepass hat die Funktion selber Passwörter zu erstellen und das gefällt mir sehr. 
 
 # 4. 04.10.2021
 
