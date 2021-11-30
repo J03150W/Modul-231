@@ -17,7 +17,7 @@ Heute habe ich mich mit Verschlüsselungen ausgesetzt. Wir haben im Unterricht d
 Wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned,
 Ich weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
 
-# 3. 27.09.2021
+# 3. 30.11.2021
 Heute haben wir Passwörter thematisiert. Ich kenne mich schon ein bisschen mit Prasswort Manager aus. Ich benutze Keepass schon seit etwa einem Monat. Es gefällt mir sehr, da ich nicht mehr überall das gleiche Passwort brauchen mus, um mein Passwort nicht zu vergessen. Keepass hat die Funktion selber Passwörter zu erstellen und das gefällt mir sehr. 
 
 # 4. 04.10.2021
