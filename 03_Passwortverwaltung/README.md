@@ -1,13 +1,24 @@
 # Passwortverwaltung
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
+
+| Kriterien              | Gewichtung | Keepass | Google Password | Bitwarden |
+| ---------------------- | ---------- | ------- | --------------- | --------- |
+| Preis                  | 3          | 15      | 15              | 15        |
+| Sicherheit             | 5          | 25      | 10              | 20        |
+| Design                 | 1          | 3       | 3               | 5         |
+| Benutzerfreundlichkeit | 2          | 6       | 8               | 8         |
+| Total                  | -          | 49      | 36              | 48        |
 
 # Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+
+Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+
+Wenn man ein Passwort erstell muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. Die Generierung kann man konfigurieren. Ich habe das Programm nur auf meinem Arbeits Laptop
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+
+Google: Für die Tabelle
+Erfahrung: für die Installation und Einrichtung

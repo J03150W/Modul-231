@@ -4,11 +4,12 @@ Wir haben Verschlüsselungen angeschaut. Die Ceasar Methode haben wir näher the
 
 # 2. 23.11.2021
 
-Ich habe die Repo Struktur in meinem Repo geklont. Am Anfagn ging es nicht und deswegen musste ich einen Primarykey erstellen und dann hat es auch funktioniert.
+wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned,
+Ich weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
 
 # 3. 30.11.2021
 
-Es hatten Home Office. Wir haben Passwort sicherheit angesehen. Ich habe Keepass schon seit einer Weile und es gefählt mir sehr. Ich benutzte es, damit ich nicht alle meine Passwörter memorisieren muss.
+Es hatten Home Office. Wir haben Passwort sicherheit angesehen. Ich habe mih für Keepass entschieden, da es mir sehr gefählt. Ich benutzte es, damit ich nicht alle meine Passwörter memorisieren muss.
 
 # 4. 07.12.2021
 
