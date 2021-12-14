@@ -1,13 +1,13 @@
 # Passwortverwaltung
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
+Ich entscheide mich für Keepass, da ich es schon seit einer Weile habe. Ich benutzte es immer, wenn ich ein neuen Account im Internet erstelle. Es ist sehr einfach zu benutzten. Die beste Funktion des Programms finde ich die Kopier Funktion, dass das Passwort oder der Nutzername nur für ein paar Sekunden gespeichert ist. Mann kann einfach sichere Passwörter generieren und diese Speichern. 
 
 # Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Wenn man ein Passwort erstell muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. Die Generierung kann man konfigurieren. Ich habe das Programm nur auf meinem Arbeits Laptop
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+Ich benutzte keine Quellen.
