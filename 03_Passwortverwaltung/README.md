@@ -1,5 +1,7 @@
 # Passwortverwaltung
 
+Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. Viele benutzten sie, damit sie nicht alle ihre Passwörter merken müssen. Es gibt viele Programme, die diese Aufgaben erlidigen können. Die meisten dieser Programme sind in der Lage sehr Sichere Passwörter selber zu generieren. Diese Passwörter sind opimiert, sodass sie möglichst schwer zu knacken sind.
+
 # Entscheidung
 
 | Kriterien              | Gewichtung | Keepass | Google Password | Bitwarden |
@@ -20,5 +22,7 @@ Wenn man ein Passwort erstell muss man den Benutzername eingeben, danach kann ma
 
 # Quellen
 
-Google: Für die Tabelle
-Erfahrung: für die Installation und Einrichtung
+Eigene Erfahrung: Für die Bewertung von Keepass
+Eigene Erfahrung: Für die Bewertung von Google Password
+Eigene Erfahrung: Für die Installation und Einrichtung
+Mikkas Erfahrung: Für die Bewertung von Bitwarden
