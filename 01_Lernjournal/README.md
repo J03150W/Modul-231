@@ -9,7 +9,7 @@ Ich weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte e
 
 # 3. 30.11.2021
 
-Es war Home Office. Wir haben Passwort sicherheit angeschaut. Wir haben angeschaut, was ein starkes und schwaches Passwort ausmacht. Ich habe mich im Internet über mehrere Passwortmanager informiert und mich auf 3 eingeschränkt. Ich habe mih für Keepass entschieden, da es mir sehr gefählt. Ich benutzte es, damit ich nicht alle meine Passwörter memorisieren muss.
+Es war Home Office. Wir haben Passwort sicherheit angeschaut. Wir haben angeschaut, was ein starkes und schwaches Passwort ausmacht. Ich habe mich im Internet über mehrere Passwortmanager informiert und mich auf 3 eingeschränkt. Ich habe mih für Keepass entschieden, da es mir sehr gefählt. Ich benutzte es, damit ich nicht alle meine Passwörter memorisieren muss. Meine [Entscheidung](/03_Passwortverwaltung/)
 
 # 4. 07.12.2021
 
