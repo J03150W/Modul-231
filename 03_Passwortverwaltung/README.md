@@ -14,11 +14,11 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 
 # Installation
 
-Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
+Die Installation ist sehr einfach und in wenigen Schritten erledigt.Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
 
 # Einrichtung
 
-Wenn man ein Passwort erstell muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. Die Generierung kann man konfigurieren. Ich habe das Programm nur auf meinem Arbeits Laptop
+Wenn man ein Passwort erstellen will muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. Die Generierung kann man konfigurieren. Die Konfiguration kann man viele Aspekte eines Passworts bestimmen z.B. Die Länge oder die Zeichenart die benutzt werden sollte. Ich habe das Programm nur auf meinem Arbeits Laptop
 
 # Quellen
 
