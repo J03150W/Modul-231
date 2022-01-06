@@ -4,8 +4,7 @@ Wir haben Verschlüsselungen angeschaut. Die Ceasar Methode haben wir näher the
 
 # 2. 23.11.2021
 
-wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned,
-Ich weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
+Wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned. Ich habe weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
 
 # 3. 30.11.2021
 
@@ -18,3 +17,8 @@ Wir haben die Privacy Policy thematisiert. Ich hielte einen Vortag zu Discords P
 # 5. 14.12.2021
 
 Wir haben die LB1 Prüfung gehalten. Es ging okay, aber ich konnte das Blatt nicht rechtzeitig drucken, da ich nicht herausgefunden habe wie der Drucker bei der Mensa funktioniert. Ich habe meine Zusammenfassung rechtzeitig fertig geschrieben und dachte ich könnte es über den Mittag drucken, weil ich es andem Tag vorher noch nicht erledigt hatte. Wir haben den Rest der Stunde weiter an unseren Dossiers gearbeitet und anschliessend ein Pantomime zum Thema Datenschutz zu spielen.
+
+
+# 6. 04.01.2022
+
+Wir haben die Sicherheit und Hashes thematisiert. Wir haben auch weiter an unserem Repo gearbeitet. Die Inputs habe ich sehr interessant gefunden. Es hat mir vorallem spass gemacht meine verschlüsselten Nachrichten mit meinen Kameraden auszutauschen. Ich habe bei meinem Repo einen Gang zu gelegt, da nicht mehr lange Zeit übrig bleibt.
