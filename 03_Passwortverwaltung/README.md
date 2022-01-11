@@ -22,7 +22,6 @@ Wenn man ein Passwort erstellen will muss man den Benutzername eingeben, danach 
 
 # Quellen
 
-Eigene Erfahrung: Für die Bewertung von Keepass
-Eigene Erfahrung: Für die Bewertung von Google Password
-Eigene Erfahrung: Für die Installation und Einrichtung
-Mikkas Erfahrung: Für die Bewertung von Bitwarden
+Keepass: Ich benutzte Keepass selber, deswegen musste ich nicht im Internet nachsuchen.
+Google Password: https://passwords.google.com/
+Bitwarden: https://bitwarden.com/ und Mikka hat mir davon erzählt.
