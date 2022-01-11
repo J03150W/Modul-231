@@ -4,6 +4,7 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 
 # Entscheidung
 
+# Entscheidungsmatrix
 | Kriterien              | Gewichtung | Keepass | Google Password | Bitwarden |
 | ---------------------- | ---------- | ------- | --------------- | --------- |
 | Preis                  | 3          | 15      | 15              | 15        |
@@ -11,6 +12,16 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 | Design                 | 1          | 3       | 3               | 5         |
 | Benutzerfreundlichkeit | 2          | 6       | 8               | 8         |
 | Total                  | -          | 49      | 36              | 48        |
+
+# Finale Bewertung
+
+| Kriterien              | Keepass      | Google Password | Bitwarden    |
+| ---------------------- | ------------ | --------------- | ---------    |
+| Preis                  | Kostenlos    | Kostenlos       | Kostenlos    |
+| Sicherheit             | Gut          | Schlecht        | Gut          |
+| Design                 | Mittelmässig | Mittelmässig    | Gut          |
+| Benutzerfreundlichkeit | Mittelmässig | Mittelmässig    | Mittelmässig |
+
 
 # Installation
 
