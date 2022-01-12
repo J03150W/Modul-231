@@ -20,5 +20,14 @@
 7. Drahtlose Schnittstellen deaktivieren
     - Die einzigen Schnittstellen die ich benutze sind meine Kopfhörer und mein Auto.
 
+# 2. PC-Sicherheit erhöhen
+1. Cache und Browserverlauf löschen
+    - Ich benutze Google Chrome und habe das erst letztens erledigt.
+2. Angriffe abwehren
+    - Ich habe fasst aller diser Sachen gemacht, da ich denke, dass diese sehr hilfreich für die Sicherheit seines PC's hilft.
+3.
+4.
+5.
+
 # 2. Individuelle Quelle
-https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen
+1. https://www.datenschutz.ch/meine-daten-schuetzen/smartphone-sicherheit-erhoehen

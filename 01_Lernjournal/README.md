@@ -22,3 +22,5 @@ Wir haben die LB1 Prüfung gehalten. Es ging okay, aber ich konnte das Blatt nic
 # 6. 04.01.2022
 
 Wir haben die Sicherheit und Hashes thematisiert. Wir haben auch weiter an unserem Repo gearbeitet. Die Inputs habe ich sehr interessant gefunden. Es hat mir vorallem spass gemacht meine verschlüsselten Nachrichten mit meinen Kameraden auszutauschen. Ich habe bei meinem Repo einen Gang zu gelegt, da nicht mehr lange Zeit übrig bleibt.
+
+# 7. 11.01.2022
