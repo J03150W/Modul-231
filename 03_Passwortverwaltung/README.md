@@ -19,8 +19,9 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 | ---------------------- | ------------ | --------------- | ---------    |
 | Preis                  | Kostenlos    | Kostenlos       | Kostenlos    |
 | Sicherheit             | Gut          | Schlecht        | Gut          |
+| Password Generation    | Gut          | Mittelmässig    | Gut          |
 | Design                 | Mittelmässig | Mittelmässig    | Gut          |
-| Benutzerfreundlichkeit | Mittelmässig | Mittelmässig    | Mittelmässig |
+| Offline                | Ja           | Nein            | Nein         |
 
 
 # Installation
