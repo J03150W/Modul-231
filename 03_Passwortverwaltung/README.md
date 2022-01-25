@@ -31,11 +31,18 @@ Ich habe mich für Keepass entschieden. Ich benutzte es schon bevor ich mich mit
 
 Die Installation ist sehr einfach und in wenigen Schritten erledigt. Nachdem man das Programm [heruntergelanden](https://keepass.info/) hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
 
-![Masterpasswort](/Masterpasswort.png/)
+![Masterpasswort](/03_Passwortverwaltung/Masterpasswort.png/)
 
 # Einrichtung
 
-Wenn man ein Passwort erstellen will muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. Die Generierung kann man konfigurieren. Die Konfiguration kann man viele Aspekte eines Passworts bestimmen z.B. Die Länge oder die Zeichenart die benutzt werden sollte. Ich habe das Programm nur auf meinem Arbeits Laptop
+Wenn man ein Passwort erstellen will muss man den Benutzername eingeben, danach kann man selber ein Passwort angeben, oder eins generieren lassen. 
+
+![Neues_Passwort](/03_Passwortverwaltung/Neues_Passwort.png/)
+
+Die Generierung kann man konfigurieren. Die Konfiguration kann man viele Aspekte eines Passworts bestimmen z.B. Die Länge oder die Zeichenart die benutzt werden sollte.
+
+
+![Passwort_Konfiguration](/03_Passwortverwaltung/Passwort_Konfiguration.png/)
 
 # Quellen
 
