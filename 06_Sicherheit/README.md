@@ -5,6 +5,8 @@
 - [2. Individuelle Quelle](#2-individuelle-quelle)
 
 # 1. Checkliste des Datenschutzbeauftragten
+
+# 1. Smartphone-Sicherheit erhöhen
 1. Gerätesperre aktivieren
     - Ich habe dies schon seid langem erledigt, weil ich nicht will das Fremde mein Handy einfach so Öffnen können.
 
