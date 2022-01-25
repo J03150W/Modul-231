@@ -1,8 +1,8 @@
 # Sicherheit <!-- omit in toc -->
 
 # Inhaltsverzeichnis <!-- omit in toc -->
-- [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
-- [2. Individuelle Quelle](#2-individuelle-quelle)
+- [1. Checklisten des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
+- [2. Quellen](#2-individuelle-quelle)
 
 # 1. Checkliste des Datenschutzbeauftragten
 
