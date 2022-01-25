@@ -1,10 +1,8 @@
 # Backupkonzept
-Das Backupkonzept meines Dossiers/Repos:
 
-Ich glaube, dass ich ein sicheres Backupkonzept brauche. Ich benutze verschiedene Backups.<br/>
-Meine Backups: <br/>
-    1. Ich habe mein Repository Kopiert und im gleichem Ordner nochmal eingefügt. <br/>
-    2. Ich habe aber auch das Repo auf meiner Google Drive, damit ich falls etwas an meinem PC passiert und ich alle Dateien verliere, mein Repo von dem Drive Online einfach herüberziehen kann. <br/>
-    3. Ich kann jederzeit mein Repo einfach von Github Clonen und danfn habe ich es auf meinem PC wieder. <br/>
+| Quelle | Ziel | Häufigkeit | Methode |
+| ------ | ---- | ---------- | ------- |
+| Iphone 12 | iCloud | Sobald Daten gespeichert wurden | Daten werden automatisch auf der iCloud gespeichert. |
+| hp Pavilion | Google Drive | 1 Mal pro Monat | Ich kopiere meine Daten in meinem persönlichen Google Drive. |
 
-Meine anderen [Backups](/04_Ablagekonzept/)
+Hier sind die [Daten](/04_Ablagekonzept/), die auf den Geräten gespeichert werden sollen.
