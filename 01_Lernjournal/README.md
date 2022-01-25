@@ -24,3 +24,9 @@ Wir haben die LB1 Prüfung gehalten. Es ging okay, aber ich konnte das Blatt nic
 Wir haben die Sicherheit und Hashes thematisiert. Wir haben auch weiter an unserem Repo gearbeitet. Die Inputs habe ich sehr interessant gefunden. Es hat mir vorallem spass gemacht meine verschlüsselten Nachrichten mit meinen Kameraden auszutauschen. Ich habe bei meinem Repo einen Gang zu gelegt, da nicht mehr lange Zeit übrig bleibt.
 
 # 7. 11.01.2022
+
+Wir haben die Ablage von Daten thematisiert. Wir haben auch noch viel Zeit bekommen, um an unser Repo weiter zu arbeiten. Ich habe eher langsamer gearbeitet, da ich ein bisschen abgelenkt war. Ich konnte trozdem eine angemässene Leistung leisten. Ich bin leider noch nicht ganz fertig mit meinem Ablagekonzept fertig geworden. Ich hoffe ich kann es nächste Woche fertig machen.
+
+# 8. 18.01.2022
+
+Wir haben Backups von Geräten und die Folegn von Schlechten oder wenn man kein Backup hat thematisiert. Es ist wichtig, dass man ein Backup hat, da man seine Wichtigen Daten nicht verlieren will. Ich habe in einer Gruppe einen Vortrag über Cold vs Hot Backups gehalten. Dieses Thema finde ich sehr Interessant. Wir haben dieses Mal weniger Zeit für unser eigenes Repo bekommen, da die Vorträge so lang gingen. Ich muss mein Repo in zwei Wochen abgeben. Ich denke ich werde das nächstes Mal mit meinem Repo fertig.
