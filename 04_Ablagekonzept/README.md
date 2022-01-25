@@ -1,5 +1,7 @@
 # Ablagekonzept
 
+### Das sind die Wichtigsten Applikationen auf meinem Handy und auf meinem Arbeits Laptop und deren Datenablage.
+
 # Meine Datenablagen und Services
 
 | Gerät (Speicherort) | Betriebssystem | Applikation | Art der Daten | Auf Zentralem Server gespeichert | User friendly privacy policy | Folgen von Datenverlust 				| Folgen von Diebstahl 					| Backup vorhanden | Art des Backups 				| Häufigkeit des Backups 			| Massnahmen |
