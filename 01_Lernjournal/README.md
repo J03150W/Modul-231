@@ -1,5 +1,5 @@
 # Links
-- [1. Tag](#Was-habe-ich-gelernt?)
+- [1. Tag](#1.-16.11.2021)
 
 # 1. 16.11.2021
 
