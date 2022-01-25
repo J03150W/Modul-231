@@ -29,7 +29,9 @@ Ich habe mich für Keepass entschieden. Ich benutzte es schon bevor ich mich mit
 
 # Installation
 
-Die Installation ist sehr einfach und in wenigen Schritten erledigt. Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
+Die Installation ist sehr einfach und in wenigen Schritten erledigt. Nachdem man das Programm [heruntergelanden](https://keepass.info/) hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
+
+![Masterpasswort](/Masterpasswort.png/)
 
 # Einrichtung
 
