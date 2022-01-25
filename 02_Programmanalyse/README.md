@@ -1,7 +1,7 @@
 # 231 - Programmanalyse
 
 # Ausgewählte(r) Service / Applikation
-## Discord
+## [Discord](https://discord.com/)
 
 # Datenspeicherort
 ### Die Daten werden durch Cookies auf dem Gerät gespeichert, sodass Sie beim Starten der Applikation einfach aufgerufen werden können.
@@ -29,4 +29,8 @@ Das Unternehmen und seine Tochtergesellschaften sowie Vertragspartner („verbun
 Ja, indirekt hat es Discord auch in die Policy geschrieben.(Siehe vorherigen Absatz)
 
 # Quellen
-https://discord.com/privacy
+[Discord](https://discord.com/)
+
+[Privacy Policy](https://discord.com/privacy)
+
+
