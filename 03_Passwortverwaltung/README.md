@@ -4,7 +4,7 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 
 # Entscheidung
 
-# Entscheidungsmatrix
+## Entscheidungsmatrix
 | Kriterien              | Gewichtung | Keepass | Google Password | Bitwarden |
 | ---------------------- | ---------- | ------- | --------------- | --------- |
 | Preis                  | 3          | 15      | 15              | 15        |
@@ -13,7 +13,7 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 | Benutzerfreundlichkeit | 2          | 6       | 8               | 8         |
 | Total                  | -          | 49      | 36              | 48        |
 
-# Finale Bewertung
+## Finale Bewertung
 
 | Kriterien              | Keepass      | Google Password | Bitwarden    |
 | ---------------------- | ------------ | --------------- | ---------    |
@@ -23,7 +23,7 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 | Design                 | Mittelmässig | Mittelmässig    | Gut          |
 | Offline                | Ja           | Nein            | Nein         |
 
-# Das ausgewählte Programm
+## Das ausgewählte Programm
 
 Ich habe mich für Keepass entschieden. Ich benutzte es schon bevor ich mich mit den Thema befasst habe. Auch wenn es nicht das Schönste von dem Design ist, ist es das Beste von den Funktionen. Funktionen eines Passwortmanagers sind sehr viel Wichtiger als das Design, deswegen wurde meine Entscheidung nur noch verstärkt.
 
