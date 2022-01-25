@@ -23,10 +23,13 @@ Passwortverwaltung wird benutzt um die Sicherheit seiner Passwörter gewären. V
 | Design                 | Mittelmässig | Mittelmässig    | Gut          |
 | Offline                | Ja           | Nein            | Nein         |
 
+# Das ausgewählte Programm
+
+Ich habe mich für Keepass entschieden. Ich benutzte es schon bevor ich mich mit den Thema befasst habe. Auch wenn es nicht das Schönste von dem Design ist, ist es das Beste von den Funktionen. Funktionen eines Passwortmanagers sind sehr viel Wichtiger als das Design, deswegen wurde meine Entscheidung nur noch verstärkt.
 
 # Installation
 
-Die Installation ist sehr einfach und in wenigen Schritten erledigt.Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
+Die Installation ist sehr einfach und in wenigen Schritten erledigt. Nachdem man das Programm heruntergelanden hat muss man ein Master Passwort festlegen. Dieses muss man immer wenn man das Programm startet eingeben. Danach ist die Instalation vorbei.
 
 # Einrichtung
 
