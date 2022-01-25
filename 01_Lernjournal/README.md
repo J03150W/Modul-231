@@ -1,10 +1,19 @@
+# Links
+- [1. Tag](#Was-habe-ich-gelernt?)
+
 # 1. 16.11.2021
 
-Wir haben Verschlüsselungen angeschaut. Die Ceasar Methode haben wir näher thematisiert. Ich habe ein Programm heruntergeladen und damit eine Nachricht entschlüsselt. Ich habe das Thema schon einmal in der Sekundarstufe angeschaut und es hat mir schon damals, wie jetzt gefallen.
+### Tätigkeiten
+Wir haben Verschlüsselungen angeschaut. Die Ceasar Methode haben wir näher thematisiert. Ich habe ein Programm heruntergeladen und damit eine Nachricht entschlüsselt. Ich habe das Thema schon einmal in der Sekundarstufe angeschaut und es hat mir schon damals, wie jetzt gefallen. 
+
+### Was habe ich gelernt?
+Ich habe in diesen Lektionen gelernt, dass man diese Verschlüsselungsmethode ins extreme ziehen kann.
+
+### Ziele für das nächste Mal
 
 # 2. 23.11.2021
 
-Wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned. Ich habe weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr.
+Wir haben im Unterricht SSH angeschaut. Ich habe mein Repo lokal gelösch und mit dem SSH gecloned. Ich habe weiter an meinem Repo gearbeitet ich habe die Vorlage eingebaut. Ich hatte ein bisschen Probleme mit dem Push, da ich noch keinen Key hatte. Nachdem ich einen neuen Key erstellt habe hatte ich keine Schwierigkeiten mehr. Ich habe in diesen Lektionen gelernt, dass man ein Key für sein eigenes Repo braucht.
 
 # 3. 30.11.2021
 
