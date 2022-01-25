@@ -6,7 +6,6 @@
 | ------------------- | -------------- | ----------- | ------------- | -------------------------------- | ---------------------------- | -------------------------------------- | ------------------------------------- | ---------------- | ------------------------------ | --------------------------------- | ---------- |
 | Iphone 12			  |	IOS			   | WhatsApp	 | Chats/Bilder	 | Ja								| Nein						   | Velust von Chats/Bilder	   			| Gestolene private Bidler von Freunden	| Ja			   | iCloud			  				| Sobald Daten gespeichert werden	|	Keine	 |
 | Iphone 12			  |	IOS			   | Snapchat	 | Chats/Bilder/Videos	 | Ja								| Nein						   | Velust von Chats/Bilder	   			| Gestolene private Bidler von Freunden	| Ja			   | iCloud			  				| Sobald Daten gespeichert werden	|	Keine	 |
-| Iphone 12			  |	IOS			   | Instagram	 | Gespeicherte	Videos/Bilder	 | Ja								| Nein						   | Keine   								| Gestolene private Bidler von Freunden	| Ja			   | iCloud			  				| Sobald Daten gespeichert werden	|	Keine	 |
-| hp Pavilion		  | Windows 10			   | Discord	 | Chats	 	 | Ja								| Nein						   | Velust von Chats   					| Keine									| Nein			   | N/A			  				| N/A								|	Keine	 |
+| hp Pavilion		  | Windows 10			   | Mein Lehre Ordner	 | Files	 	 | Nein								| N/A						   | Velust von allen Daten der Lehre  					| Zugriff auf allen meinen Daten der Lehre									| Nein			   | N/A			  				| N/A								|	Ein Backup erstellen	 |
 | hp Pavilion		  | Windows	10		   | Keepass	 | Passwörter	 	 | Ja								| Ja						   | Velust vielen Passwörter   					| Zugriff zu vielen Accounts/Daten									| Nein	| N/A | N/A | Keine	
-| hp Pavilion		  | Windows	10		   | Gmail	 | Nachrichten	 	 | Ja								| Ja						   | Velust von Wichtigen Konversationen   					| Zugriff auf Private Informationen									| Nein			   | N/A			  				| N/A								|	Keine	 |	   | N/A			  				| N/A								|	Keine	 |
+
