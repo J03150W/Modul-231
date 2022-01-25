@@ -12,11 +12,11 @@ Es war Home Office. Wir haben Passwort sicherheit angeschaut. Wir haben angescha
 
 # 4. 07.12.2021
 
-Wir haben die Privacy Policy thematisiert. Ich hielte einen Vortag zu Discords Privacy Policy. Wir haben beim Recherchieren für den Vortrag herausgefunde, dass Discord fasst alle Daten die man ihnen freigibt, auch benutzt, indem sie sie Verkaufen. Ich benutzte Discord täglich und mir ist nie aufgefahlen wie viele Daten es Saugt. Es verkauft diese auch, was ich nicht cool finde.
+Wir haben die Privacy Policy thematisiert. Ich hielte einen Vortag zu Discords Privacy Policy. Wir haben beim Recherchieren für den Vortrag herausgefunde, dass Discord fasst alle Daten die man ihnen freigibt, auch benutzt, indem sie sie Verkaufen. Ich benutzte Discord täglich und mir ist nie aufgefahlen wie viele Daten es Saugt. Es verkauft diese auch, was ich nicht cool finde. Die [Programmanalyse](/02_Programmanalyse/)
 
 # 5. 14.12.2021
 
-Wir haben die LB1 Prüfung gehalten. Es ging okay, aber ich konnte das Blatt nicht rechtzeitig drucken, da ich nicht herausgefunden habe wie der Drucker bei der Mensa funktioniert. Ich habe meine Zusammenfassung rechtzeitig fertig geschrieben und dachte ich könnte es über den Mittag drucken, weil ich es andem Tag vorher noch nicht erledigt hatte. Wir haben den Rest der Stunde weiter an unseren Dossiers gearbeitet und anschliessend ein Pantomime zum Thema Datenschutz zu spielen.
+Wir haben die LB1 Prüfung gehalten. Es ging okay, aber ich konnte das Blatt nicht rechtzeitig drucken, da ich nicht herausgefunden habe wie der Drucker bei der Mensa funktioniert. Ich habe meine Zusammenfassung rechtzeitig fertig geschrieben und dachte ich könnte es über den Mittag drucken, weil ich es andem Tag vorher noch nicht erledigt hatte. Wir haben den Rest der Stunde weiter an unseren Dossiers gearbeitet und anschliessend ein Pantomime zum Thema Datenschutz gespielen.
 
 
 # 6. 04.01.2022
@@ -25,7 +25,7 @@ Wir haben die Sicherheit und Hashes thematisiert. Wir haben auch weiter an unser
 
 # 7. 11.01.2022
 
-Wir haben die Ablage von Daten thematisiert. Wir haben auch noch viel Zeit bekommen, um an unser Repo weiter zu arbeiten. Ich habe eher langsamer gearbeitet, da ich ein bisschen abgelenkt war. Ich konnte trozdem eine angemässene Leistung leisten. Ich bin leider noch nicht ganz fertig mit meinem Ablagekonzept fertig geworden. Ich hoffe ich kann es nächste Woche fertig machen. 
+Wir haben die Ablage von Daten thematisiert. Wir haben auch noch viel Zeit bekommen, um an unser Repo weiter zu arbeiten. Ich habe eher langsamer gearbeitet, da ich ein bisschen abgelenkt war. Ich konnte trozdem eine angemässene Leistung leisten. Ich bin leider noch nicht ganz fertig mit meinem Ablagekonzept fertig geworden. Ich hoffe ich kann es nächste Woche fertig machen. Mein [Ablagekonzept](/04_Ablagekonzept/)
 
 # 8. 18.01.2022
 
